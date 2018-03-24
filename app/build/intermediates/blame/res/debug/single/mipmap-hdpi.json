@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mihir/StudioProjects/Android-Sample/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/mihir/StudioProjects/Android-Sample/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mihir/StudioProjects/Android-Sample/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/mihir/StudioProjects/Android-Sample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mihir/StudioProjects/Android-Pagination-Example/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/mihir/StudioProjects/Android-Pagination-Example/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mihir/StudioProjects/Android-Pagination-Example/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/mihir/StudioProjects/Android-Pagination-Example/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

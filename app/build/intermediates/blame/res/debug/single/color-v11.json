@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mihir/StudioProjects/Android-Sample/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mihir/.android/build-cache/ecd13a460fa93358f6f67fee2c5a95e77d19e6e9/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/mihir/StudioProjects/Android-Sample/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mihir/.android/build-cache/ecd13a460fa93358f6f67fee2c5a95e77d19e6e9/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/mihir/StudioProjects/Android-Pagination-Example/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mihir/.android/build-cache/ecd13a460fa93358f6f67fee2c5a95e77d19e6e9/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/mihir/StudioProjects/Android-Pagination-Example/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mihir/.android/build-cache/ecd13a460fa93358f6f67fee2c5a95e77d19e6e9/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

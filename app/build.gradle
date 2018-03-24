@@ -1,0 +1,56 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "26.0.1"
+    defaultConfig {
+        applicationId "com.mihir.paginationdemo"
+        minSdkVersion 21
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES.txt'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/dependencies.txt'
+        exclude 'META-INF/LGPL2.1'
+    }
+}
+
+dependencies {
+    compile supportDependencies.appCompat
+    compile supportDependencies.design
+    compile supportDependencies.recyclerView
+    compile supportDependencies.cardView
+
+    compile retrofitDependencies.retrofit
+    compile retrofitDependencies.gson
+    compile retrofitDependencies.rxAdapterJava
+
+    compile rxDependencies.rxAndroid
+    compile rxDependencies.rxJava
+
+    compile circleImageView
+    compile glide
+
+    androidTestCompile 'junit:junit:4.12'
+    compile 'org.robolectric:robolectric-annotations:3.0'
+    compile 'junit:junit:4.12'
+    compile 'org.robolectric:robolectric:3.0'
+    compile 'org.mockito:mockito-core:1.10.19'
+}

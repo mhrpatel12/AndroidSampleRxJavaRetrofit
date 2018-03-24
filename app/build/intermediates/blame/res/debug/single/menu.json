@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mihir/StudioProjects/Android-Pagination-Example/app/build/intermediates/res/merged/debug/menu/popup_sorting.xml",
+        "source": "/Users/mihir/StudioProjects/Android-Pagination-Example/app/src/main/res/menu/popup_sorting.xml"
+    },
+    {
+        "merged": "/Users/mihir/StudioProjects/Android-Sample/app/build/intermediates/res/merged/debug/menu/popup_sorting.xml",
+        "source": "/Users/mihir/StudioProjects/Android-Sample/app/src/main/res/menu/popup_sorting.xml"
+    }
+]

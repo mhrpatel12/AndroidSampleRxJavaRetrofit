@@ -1,0 +1,4 @@
+#Sat Mar 24 18:27:23 IST 2018
+base.0=/Users/mihir/StudioProjects/Android-Pagination-Example/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
+renamed.0=classes.dex
+file.0=/Users/mihir/StudioProjects/Android-Pagination-Example/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex
